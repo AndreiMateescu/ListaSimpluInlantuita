@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485863906 source:c:\users\diamo\desktop\c++\listaclase\main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
